@@ -1,0 +1,31 @@
+.Form {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 20px 60px;
+    border-radius: 5px;
+}
+
+.label {
+    font-size: 15px;
+}
+
+input {
+    border-radius: 5px;
+    border: solid 2px black;
+    padding: 5px;
+    text-align: center;
+}
+
+button {
+    background-color: aqua;
+    height: 35px;
+    border-radius: 5px;
+    border: none;
+
+}
+
+a { 
+    text-decoration: none;
+    color: aqua;
+}
